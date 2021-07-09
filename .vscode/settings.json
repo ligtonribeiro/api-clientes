@@ -1,0 +1,18 @@
+{
+    "python.defaultInterpreterPath": "/home/wellington/projetos/api-clientes/venv/bin/python",
+    "python.linting.pylintPath": "pylint",
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django",
+        "--disable=django-not-configured",
+        "--django-settings-module=<mainapp>.settings"
+    ],
+    "python.linting.pylintEnabled": true,
+    "files.exclude": {
+        "**/*.pyc": true
+    },
+    "search.exclude": {
+        "venv/": true
+    }
+}
