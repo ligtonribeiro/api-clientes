@@ -1,4 +1,4 @@
-# Formação DJango REST APIs - Alura
+# Formação Django REST APIs - Alura
 1. API com Django 3: Django Rest Framework - [**Concluído**]
 2. API com Django 3: Validações, buscas, filtros e deploy - [**Concluído**]
 
